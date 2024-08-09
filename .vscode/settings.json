@@ -1,0 +1,12 @@
+{
+    "sqltools.connections": [
+        {
+            "previewLimit": 50,
+            "driver": "SQLite",
+            "name": "ll",
+            "group": "ss",
+            "database": "${workspaceFolder:softhouse.mix}/data/data.db"
+        }
+    ],
+    "sqltools.useNodeRuntime": true
+}
